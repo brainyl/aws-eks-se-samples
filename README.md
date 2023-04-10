@@ -17,3 +17,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Backup and Restore 
+https://github.com/aws-samples/aws-eks-se-samples/tree/main/knowledge-center/how-to-snapshot-restore-resize-sts/manifests
